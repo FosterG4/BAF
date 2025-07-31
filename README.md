@@ -30,7 +30,7 @@ Arsip Biru
 3. Extract files to a folder
 4. Run the injector as Administrator
 5. chose 1 and Enter
-6. start The game
+6. start The game (force run game in direct 11 : -force-d3d11)
 7. Enjoy enhanced gameplay
 
 ## Usage
