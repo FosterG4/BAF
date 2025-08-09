@@ -6,7 +6,7 @@ Arsip Biru
 ## Features
 
 ### Combat Enhancements
-- **Fixed Damage**: Set custom damage values for all attacks
+- **Stat Modifier**: Set custom stats value at battle
 - **One Hit Kill**: Instantly defeat enemies with any attack
 - **Dumb Enemies**: Enemies ignore targeting you
 
@@ -16,6 +16,7 @@ Arsip Biru
 
 ### Game Enhancements
 - **Instant Win**: Complete objectives instantly
+- **Skip Summary** Skip Summary at end of Battle
 
 ### Visibility Controls
 - **Insert Key (Keyboard Button)**: Hide UI/MENU
@@ -29,9 +30,8 @@ Arsip Biru
 2. whitelist Foster-runner.exe in anti virus you have or disable it
 3. Extract files to a folder
 4. Run the injector as Administrator
-5. chose 1 and Enter
-6. start The game (force run game in direct 11 : -force-d3d11) (steam version)
-7. Enjoy enhanced gameplay
+5. start The game (force run game in direct 11 : -force-d3d11) (steam version)
+6. Enjoy enhanced gameplay
 
 ## Usage
 
